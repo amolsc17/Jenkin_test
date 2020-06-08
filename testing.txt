@@ -3,5 +3,3 @@ updating for auto build
 newline
 asdasd
 another line
-added new
-sfdsf
